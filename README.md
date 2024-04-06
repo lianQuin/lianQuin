@@ -1,4 +1,4 @@
-- 👋 Hola soy **Liliana Soledad Quintana**![imagen](<iframe src="https://giphy.com/embed/8xZHjUzalJDuIJQ1i4" width="376" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/shantieyewear-luz-brilho-ideia-8xZHjUzalJDuIJQ1i4">via GIPHY</a></p>)
+- 👋 Hola soy **Liliana Soledad Quintana**![imagen]("https://giphy.com/embed/8xZHjUzalJDuIJQ1i4" )
 ,
 - 👀“Estoy interesada en el diseño y programación. Actualmente, estoy estudiando programación intensivamente. Por lo tanto, aquí en GitHub, encontrarás mis repositorios, que pueden estar incompletos, ya que todavía continúo estudiando.
 - Te podras encontrar trabajos hechos como esté: https://lianquin.github.io/Quintana_unidad1/
